@@ -12,8 +12,8 @@ This is in *italic*
 
 Some bullet points
 
-*Sunday
+* Sunday
 
-*Monday
+* Monday
 
-*Tuesday
+* Tuesday
