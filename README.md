@@ -17,3 +17,15 @@ Some bullet points
 * Monday
 
 * Tuesday
+
+Some Numbered Points
+
+1. Red
+   
+2. Green
+  
+3. Blue
+
+> Some caption, quote
+
+[Click Here](https://gitam.edu)
